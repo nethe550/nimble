@@ -1,0 +1,5 @@
+{
+  "token": "<YOUR_BOT_TOKEN_GOES_HERE>",
+  "prefix": "~",
+  "clientId": "<YOUR_APPLICATION_ID_GOES_HERE>"
+}
